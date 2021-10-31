@@ -1,0 +1,12 @@
+.cover {
+    font-family: 'Inter', 'Arial', sans-serif;
+    margin: 92px auto 0;
+    max-width: 1184px;
+    text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+    .cover {  
+        margin-top: 66px;
+    }
+}
