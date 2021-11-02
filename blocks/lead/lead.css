@@ -8,21 +8,21 @@
 }
 
 @media screen and (max-width:1024px) {
-    .lead {  
+    .lead {
         max-width: calc(100% - 96px);
         margin-top: 48px;
     }
 }
 
 @media screen and (max-width:768px) {
-    .lead {  
+    .lead {
         max-width: 100%;
         margin-bottom: 88px;
     }
 }
 
 @media screen and (max-width:320px) {
-    .lead {  
+    .lead {
         margin-bottom: 92px;
     }
 }
